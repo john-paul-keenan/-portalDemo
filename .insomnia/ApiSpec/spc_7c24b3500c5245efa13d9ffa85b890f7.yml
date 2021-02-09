@@ -1,13 +1,13 @@
 _id: spc_7c24b3500c5245efa13d9ffa85b890f7
 type: ApiSpec
 parentId: wrk_595ae508c9d34e249d0ef65f1210255d
-modified: 1605221028140
+modified: 1612906385801
 created: 1605219965844
 fileName: stock.yaml
 contents: |
   openapi: 3.0.0
   info:
-    title: Stock API
+    title: Stock API test branch sync
     description: Stock Information Service
     version: "0.1"
   paths:
